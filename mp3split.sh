@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Original code: https://raw.githubusercontent.com/diegosanchezp/mp3split/master/mp3split.sh
+
 ###############################################################
 # Functions definition
 ###############################################################
